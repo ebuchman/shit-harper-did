@@ -31,22 +31,31 @@ Anti-Democracy
 
 - [Federal Accountability Act (2006)](http://www.dwatch.ca/camp/RelsDec1710.html) - "Overall, the Conservatives' FAA and other decisions have increased government accountability or attempted to increase accountability in 29 ways ... However, the Conservatives have also weakened government accountability in eight ways, and failed to keep 29 promises". The conservatives rejected proposed changes and have ignored 100 other loopholes in the government's accountability system.
 
-- [Proroguing Parliament 4 times (2008-2012)](https://en.wikipedia.org/wiki/Prorogation_in_Canada#History) - Harper shut down parliament four times because he felt threatened.
+- [Obstruction Handbook (2007)](https://www.thestar.com/news/2007/05/18/obstruction_handbook_leaked.html) - Harper's office released a 200 page handbook to Conservative committee chairmen with the explicit purpose of obstructing the parliamentary process.
+
+- [Proroguing Parliament twice (2008-2009)](https://en.wikipedia.org/wiki/Prorogation_in_Canada#History) - Harper shut down parliament twice because he felt threatened.
+
+- [Closing the International Centre for Human Rights and Democratic Development (2012)](https://www.thestar.com/news/canada/2012/04/03/john_baird_announces_plans_to_close_rights_and_democracy_group.html)
+
+- [Fair Elections Act (2014)](https://en.wikipedia.org/wiki/Fair_Elections_Act#Criticism) - weakened Elections Canada, muzzled chief electoral officer from communicating about investigations, cut off the investigation's arm, changed polling supervisors to be appointed by the current party (rather than Elections Canada), and made it harder for hundreds of thousands of individuals to vote due to changed voter-identification rules. [They pushed it through as quickly as possible.](http://www.theglobeandmail.com/globe-debate/editorials/fair-elections-act-if-only-evidence-could-vote/article17943385/)
+
+- [Auditing environmental and civil society groups (2014)](http://www.cbc.ca/news/politics/7-environmental-charities-face-canada-revenue-agency-audits-1.2526330). Millions are being spent on auditing charities and non-profit entitires focused on environmental issues, anti-poverty, foreign aid and human rights (such as Amnesty International, as well as the Canadian Centre for Policy Alternatives and United Church of Canada). [No conservative think tanks have been audited.](http://www.theglobeandmail.com/news/politics/as-cra-audits-charities-theres-a-scandal-within-a-scandal/article21599291/)
+
+- [Secret FIPA Agreement (2014)](http://www.huffingtonpost.ca/2012/10/17/canada-china-fipa-critics-flawed_n_1975149.html) - The Foreign Investment Promotion and Protectionact, which [allows Chinese companies to sue Canada](http://www.cbc.ca/news/politics/5-things-to-know-about-the-canada-china-investment-treaty-1.1183343) if they feel they are being treated differently than Canadian companies. 
+
+- [Bill C-51 (2015)](https://en.wikipedia.org/wiki/Anti-terrorism_Act,_2015) - [Bill C51 has been found in violation](http://www.osce.org/fom/156261) of the [Universal Declaration of Human Rights, the International Covenant on Civil and Political Rights](http://thinkpol.ca/2015/05/25/bill-c-51-violates-universal-declaration-of-human-rights-osce-finds/), and the [Canadian Charter of Rights and Freedoms](http://www.huffingtonpost.ca/canadian-journalists-for-free-expression/bill-c51-charter-rights_b_7086948.html).
 
 - [Omnibus bills (ongoing)](http://www.macleans.ca/politics/how-sprawling-budget-bills-threaten-parliamentary-democracy/) - Harper is a fan of bills which introduce many sweeping changes to Canadian laws all at once, inhibitting the ability of MPs to vote on particular aspects of the bills, or to even review them competently (given their enormous breadth and scope). [They are an affront to our democracy](https://www.thestar.com/opinion/editorials/2012/10/19/omnibus_budget_bill_c45_is_an_affront_to_democracy.html)
 
-- [Fair Elections Act (2014)](https://en.wikipedia.org/wiki/Fair_Elections_Act#Criticism) - weakened Elections Canada, muzzled chief electoral officer from communicating about investigations, cut off the investigation's arm, changed polling supervisors to be appointed by the current party (rather than Elections Canada), and made it harder for lower-class individuals to vote.
-
 - [Gagging Scientists (ongoing)](http://www.cbc.ca/news/technology/muzzling-of-federal-scientists-widespread-survey-suggests-1.2128859) - the Harper Government is systematically gagging scientists, particularly environmental scientists. They are not allowed to speak freely with the media about their research (publicly fundeded research) and [some have even been required to be escorted by government liasons at conferences](http://www.cbc.ca/news/technology/federal-scientists-closely-monitored-during-polar-conference-1.1248559). [The world leading science journal Nature published a condemnation of the practice](http://www.nature.com/nature/journal/v483/n7387/full/483006a.html)
 
-- Auditing environmental and civil society groups. Costs $13-million a year; Seven environmental groups, anti-poverty, foreign aid and human rights groups, such as Amnesty International, as well as the Canadian Centre for Policy Alternatives and United Church of Canada. No conservative think tanks have been audited.Canada
-
-- [Secret FIPA Agreement ()](http://www.huffingtonpost.ca/2012/10/17/canada-china-fipa-critics-flawed_n_1975149.html) - The Foreign Investment Promotion and Protectionact, which [allows Chinese companies to sue Canada](http://www.cbc.ca/news/politics/5-things-to-know-about-the-canada-china-investment-treaty-1.1183343) if they feel they are being treated differently than Canadian companies. 
 
 Economics
 ---------
 
 - R&D and productivity growth is worst among developed nations
+
+- [Advanced Manufacturing Fund (2014)](https://www.thestar.com/opinion/commentary/2014/11/27/ottawas_manufacturing_fund_a_mirage_goar.html) - The Conservatives promised $200 million in funding for Ontario's manufacturing sector. They have yet to spend a dime.
 
 
 
