@@ -53,7 +53,7 @@ Anti-Democracy
 Economics
 ---------
 
-- R&D and productivity growth is worst among developed nations
+- [Harper turned 10 years of budget surplus into 6 years of deficit](http://www.cbc.ca/news2/interactives/canada-deficit/) - The Conservative government has created $160 billion in new debt since it came to power.
 
 - [Advanced Manufacturing Fund (2014)](https://www.thestar.com/opinion/commentary/2014/11/27/ottawas_manufacturing_fund_a_mirage_goar.html) - The Conservatives promised $200 million in funding for Ontario's manufacturing sector. They have yet to spend a dime.
 
@@ -66,17 +66,16 @@ Reputation
 
 - [Harper eradicated our peace-keeping force.](https://www.thestar.com/news/world/2014/10/31/how_canada_has_abandoned_its_role_as_a_peacekeeper.html) [Canada dropped from 1st to 68th on the UN's peacekeeping contributor's list](http://www.un.org/en/peacekeeping/contributors/2015/may15_2.pdf)
 
-- [Turning museums and libraries into archives only of Canada's military history](http://www.macleans.ca/news/canada/written-by-the-victors/)
+- [Museums and libraries are being turned into archives of Canada's military history, at the expense of cultural history](http://www.macleans.ca/news/canada/written-by-the-victors/)
 
 
 Environment
 -----------
 
-- Germanwatch and Climate Action Network Europe put Canada 58th out of 61 countries in regards to its efforts to combat global warming, above only Saudi Arabia, Kazakhstan and Australia.
+- [Germanwatch and Climate Action Network Europe](https://germanwatch.org/en/download/10407.pdf) put Canada 58th out of 61 countries in regards to its efforts to combat global warming, above only Saudi Arabia, Kazakhstan and Australia.
 
-- Bill C-38, mentioned above – an omnibus bill that put a halt to automatic environmental assessments of projects under the federal government’s purview.
+- [Bill C-38 (2012)](https://en.wikipedia.org/wiki/Jobs,_Growth_and_Long-term_Prosperity_Act) - eliminates requirements for environmental assessments on federally funded projects, along with many other destructive changed to environmental regulation
 
-- the Fisheries Act, Navigable Waters Protection Act and Canadian Environmental Assessment Act were either repealed or simply gutted, while the NEB was neutered.
 
 
 
