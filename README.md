@@ -1,3 +1,5 @@
+# Shit Harper Did
+
 The following is a list of reasons why Stephan Harper is Canada' worst Prime Minister.
 
 He is a corrupt, anti-democratic, virtually fascist politician that is destroying the Canadian identity and sabotaging our future.
@@ -20,26 +22,26 @@ Corruption
 
 - [Donations scandal (2013)](http://www.cbc.ca/news/politics/peter-penashue-campaign-took-in-28-ineligible-contributions-1.1313425) - Conservative cabinet minister Peter Penashue overspent his election limit and accepted a corporate donation, which is illegal under Canadian law.
 
-- [Appointing ineligible Justice Marc Nadon to supreme court (2013)](http://www.cbc.ca/news/politics/marc-nadon-s-failed-journey-to-the-supreme-court-1.2636403) - Haper knowingly appointent and ineligible judge to the supreme court. The appointment was challenged and overturned.
+- [Appointing ineligible Justice Marc Nadon to supreme court (2013)](http://www.cbc.ca/news/politics/marc-nadon-s-failed-journey-to-the-supreme-court-1.2636403) - Haper knowingly appointed an ineligible judge to the supreme court. The appointment was challenged and overturned.
 
-- [Taxpayer funded political ads (ongoing)](http://www.theglobeandmail.com/news/politics/federal-ad-spending-exceeds-projections/article16503725/) - 10s of millions of dollars a year are spent on ads for the conservative party.
+- [Taxpayer funded political ads (ongoing)](http://www.theglobeandmail.com/news/politics/federal-ad-spending-exceeds-projections/article16503725/) - tens of millions of dollars a year are spent on ads for the conservative party.
 
 Anti-Democracy
 --------------
 
-- Federal Accountability Act reneged on over half its promises
+- [Federal Accountability Act (2006)](http://www.dwatch.ca/camp/RelsDec1710.html) - "Overall, the Conservatives' FAA and other decisions have increased government accountability or attempted to increase accountability in 29 ways ... However, the Conservatives have also weakened government accountability in eight ways, and failed to keep 29 promises". The conservatives rejected proposed changes and have ignored 100 other loopholes in the government's accountability system.
 
-- Proroguing Parliament 4 times
+- [Proroguing Parliament 4 times (2008-2012)](https://en.wikipedia.org/wiki/Prorogation_in_Canada#History) - Harper shut down parliament four times because he felt threatened.
 
-- Omnibus bills
+- [Omnibus bills (ongoing)](http://www.macleans.ca/politics/how-sprawling-budget-bills-threaten-parliamentary-democracy/) - Harper is a fan of bills which introduce many sweeping changes to Canadian laws all at once, inhibitting the ability of MPs to vote on particular aspects of the bills, or to even review them competently (given their enormous breadth and scope). [They are an affront to our democracy](https://www.thestar.com/opinion/editorials/2012/10/19/omnibus_budget_bill_c45_is_an_affront_to_democracy.html)
 
-- Fair Elections Act - weakened Elections Canada, muzzled chief electoral officer from communicating about investigations, cut off the investigation's arm, polling supervisors to be appointed by the current party (rather than Elections Canada)
+- [Fair Elections Act (2014)](https://en.wikipedia.org/wiki/Fair_Elections_Act#Criticism) - weakened Elections Canada, muzzled chief electoral officer from communicating about investigations, cut off the investigation's arm, changed polling supervisors to be appointed by the current party (rather than Elections Canada), and made it harder for lower-class individuals to vote.
 
-- Gagging Scientists
+- [Gagging Scientists (ongoing)](http://www.cbc.ca/news/technology/muzzling-of-federal-scientists-widespread-survey-suggests-1.2128859) - the Harper Government is systematically gagging scientists, particularly environmental scientists. They are not allowed to speak freely with the media about their research (publicly fundeded research) and [some have even been required to be escorted by government liasons at conferences](http://www.cbc.ca/news/technology/federal-scientists-closely-monitored-during-polar-conference-1.1248559). [The world leading science journal Nature published a condemnation of the practice](http://www.nature.com/nature/journal/v483/n7387/full/483006a.html)
 
 - Auditing environmental and civil society groups. Costs $13-million a year; Seven environmental groups, anti-poverty, foreign aid and human rights groups, such as Amnesty International, as well as the Canadian Centre for Policy Alternatives and United Church of Canada. No conservative think tanks have been audited.Canada
 
-- Secretely signed FIPA (Foreign Investment Promotion and Protection) which allows Chinese companies to su Canada if certain pioelines aren;t built
+- [Secret FIPA Agreement ()](http://www.huffingtonpost.ca/2012/10/17/canada-china-fipa-critics-flawed_n_1975149.html) - The Foreign Investment Promotion and Protectionact, which [allows Chinese companies to sue Canada](http://www.cbc.ca/news/politics/5-things-to-know-about-the-canada-china-investment-treaty-1.1183343) if they feel they are being treated differently than Canadian companies. 
 
 Economics
 ---------
@@ -51,18 +53,17 @@ Economics
 Reputation 
 ----------
 
-- For the first time in 50 years, Canada lost a seat at the UN Security Council (to Portugal, who was bankrupt at the time)
+- [For the first time in 50 years, Canada lost a seat at the UN Security Council (to Portugal, who was bankrupt at the time)](http://www.theglobeandmail.com/news/politics/security-council-rejection-a-deep-embarrassment-for-harper/article1370239/)
 
-- Eradicated our peace-keeping force. Canada dropped from 1st to 67th on the UN's peacekeeping contributor's list
+- [Harper eradicated our peace-keeping force.](https://www.thestar.com/news/world/2014/10/31/how_canada_has_abandoned_its_role_as_a_peacekeeper.html) [Canada dropped from 1st to 68th on the UN's peacekeeping contributor's list](http://www.un.org/en/peacekeeping/contributors/2015/may15_2.pdf)
 
-- Turning museums and libraries into archives only of Canada's military history
+- [Turning museums and libraries into archives only of Canada's military history](http://www.macleans.ca/news/canada/written-by-the-victors/)
 
 
 Environment
 -----------
 
 - Germanwatch and Climate Action Network Europe put Canada 58th out of 61 countries in regards to its efforts to combat global warming, above only Saudi Arabia, Kazakhstan and Australia.
-
 
 - Bill C-38, mentioned above – an omnibus bill that put a halt to automatic environmental assessments of projects under the federal government’s purview.
 
