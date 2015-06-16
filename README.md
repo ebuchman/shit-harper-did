@@ -32,20 +32,26 @@ Corruption
 
 - [Contempt of Parliament (2011)](https://en.wikipedia.org/wiki/Contempt_of_Parliament#Contempt_citation_cases_for_governments) - "The contempt finding is unique in Canadian history. In a wider context, it is the first time that a government in the 54-member Commonwealth of Nations, Commonwealth Realm or Parliamentary republic alike, has been found in contempt of Parliament"
 
-- [Robocalling (2011)](https://en.wikipedia.org/wiki/2011_Canadian_federal_election_voter_suppression_scandal) - Fraudulent and misleading calls were made to voters announcing false polling stations to supress votes.
+- [Robocalling (2011)](https://en.wikipedia.org/wiki/2011_Canadian_federal_election_voter_suppression_scandal) - Fraudulent and misleading calls were made to voters announcing false polling stations to supress votes. They tried to block the court case by calling it frivolous, paying for lawyers with taxpayers money. The court's ruled that [there was indeed election fraud](http://news.nationalpost.com/news/canada/canadian-politics/electoral-fraud-did-take-place-in-2011-federal-vote-but-it-didnt-affect-outcome-judge-rules)
 
 - [Senate Spending Scandal (2012)](https://en.wikipedia.org/wiki/Canadian_Senate_expenses_scandal) - [hundreds of thousands of dollars worth of inappropriate expenses were filed by the 30 Senators](http://globalnews.ca/news/568714/a-look-at-key-dates-in-the-evolution-of-the-senate-expense-claim-controversy/). Some of the worst offenders were personally appointed by Harper. One conservative MP (Nigel Wright) tried to cover up the expenses of another (Mike Duffy) to the tune of $90,000 - this is illegal. Harper initially defended the senators, but then decided to blame them.
 
 - [F35 scandal (2012)](http://www.cbc.ca/news/politics/fighter-jet-plan-reset-as-f-35-costs-soar-1.1203373) - Harper government committed to buy F35 fighter jets (without even considering competing jets), claiming it would cost only $9 billion over 20 years. Parliamentary Budget Officer (Kevin Page) reported it would actually cost over $30 billion, and he was scorned. A Department of National Defence report vindicated Page by estimating the costs at over $40 billion over 40 years.
 
+- [More Robocalls (2013)](http://www.cbc.ca/news/politics/conservatives-admit-making-robocalls-in-saskatchewan-1.1304586) Conservatives denied, than admitted to making the robocalls, described by residents as "abusive and misleading."
+
 - [Donations scandal (2013)](http://www.cbc.ca/news/politics/peter-penashue-campaign-took-in-28-ineligible-contributions-1.1313425) - Conservative cabinet minister Peter Penashue overspent his election limit and accepted a corporate donation, which is illegal under Canadian law.
 
+- [Vacant Corporate Responsibility Councilor (2015)](http://www.huffingtonpost.ca/2015/01/28/canadian-mining-empty-office_n_6566610.html?utm_hp_ref=canada-politics) The Harper Government pays a little over $180,000 per year to operate the office of corporate social responsibility counsellor for the Canadian mining industry, even though there is no counsellor.
+
 - [Taxpayer funded political ads (ongoing)](http://www.theglobeandmail.com/news/politics/federal-ad-spending-exceeds-projections/article16503725/) - tens of millions of dollars a year are spent on ads for the conservative party.
+
+- [Excessive use of external lawyers (ongoing)](http://www.huffingtonpost.ca/2014/03/27/legal-fees-harper-conservatives_n_5043663.html) The conservatives have spent nearly half a billion dollars on outside legal fees (ignoring the over 2000 government lawyers), mostly to defend against ethics and access to information probes 
 
 [Harper was rejected by the Supreme Court 5 times](http://www.huffingtonpost.ca/2014/04/25/supreme-court-harper-conservatives_n_5214975.html)
 ------------------------------------------------
 
-- [Safe Injection (2011]() - Harper tried to close Vancouver's Insite safe-injection facility. The court found that denial contravened the principles of fundamental justice and ordered the exemption renewed immediately.
+- [Safe Injection (2011)]() - Harper tried to close Vancouver's Insite safe-injection facility. The court found that denial contravened the principles of fundamental justice and ordered the exemption renewed immediately.
 
 - [Prostitution (2013)]() - laws prohibiting brothels, street walking, and living off prostitution were struck down
 
@@ -90,7 +96,11 @@ Economics
 
 - [Harper turned 10 years of budget surplus into 6 years of deficit](http://www.cbc.ca/news2/interactives/canada-deficit/) - The Conservative government has created $160 billion in new debt since it came to power.
 
+- [Encouraging offshore tax havens](http://rabble.ca/columnists/2013/04/harper-governments-tough-posture-and-weak-rules-tax-havens)
+
 - [Advanced Manufacturing Fund (2014)](https://www.thestar.com/opinion/commentary/2014/11/27/ottawas_manufacturing_fund_a_mirage_goar.html) - The Conservatives promised $200 million in funding for Ontario's manufacturing sector. They have yet to spend a dime.
+
+- [Hundres of millions of dollars in missing weapons and tech (2014)](https://www.vice.com/en_ca/read/the-government-of-canada-keeps-losing-blackberries-cash-and-weapons-921) The Harper Government managed to lose over $300 million in cash and equipment, including weapons and phones.
 
 - [Privatizing the Wheat Board (2015)](http://rabble.ca/news/2015/04/sold-canadian-wheat-board-no-longer-quite-so-canadian) - Harper sold off the Canadian Wheat Board to a pair of American and Saudi companies for $250 million, despite a majority of famers voting to keep it.
 
