@@ -17,6 +17,5 @@ RUN go build -o ./shd-server ./server
 EXPOSE 8080
 
 COPY ./start.sh /start.sh
-RUN chmod 755 /start.sh
 
 CMD ["/start.sh"]

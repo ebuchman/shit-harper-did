@@ -1,27 +1,22 @@
 # Shit Harper Did
 
-The following is a list of reasons why Stephan Harper is Canada' worst Prime Minister.
-
-He is a corrupt, anti-democratic politician that is destroying the Canadian identity as a peace-keeper, environmental steward, and champion of human rights.
+Stephen Harper is a corrupt, anti-democratic politician that is destroying the Canadian identity as a peace-keeper, environmental steward, and champion of human rights.
 
 He is weakening our democracy, sabotaging our future, and ruining our international reputation.
-
-Let's collect all the evidence here and use this repository to inform others and provide key talking points for educating the public
-about this destructive government.
 
 Highlights
 ----------
 
-- Harper is the first, in history, among leaders of the 54-member Commonwealth of Nations to be found in contempt of parliament.
+- Harper is the first, in history, among leaders of the 54-member Commonwealth of Nations, to be found in contempt of parliament.
 
 - Harper has been found guilty of repeated election scandals; so he has passed legislation to weaken oversight of the election process and to make
 it more difficult for people (particularly his opposers) to vote.
 
 - Harper shut down parliament twice when he felt threatened, and his party released a 200-page "Obstruction Handbook" on how to interfere with and inhibit the democratic process in parliamentary committees.
 
-- Harper is censoring scientists.
+- Harper is censoring scientists, controlling their communication with the media, and forcing them to make changes in their reports for non-scientific reasons.
 
-- Harper has taken Canada's Peace-Keeping Force from 1st in the world to 68th. Meanwhile, Haper bungled tens of billions of dollars buying fighter jets.
+- Harper has dismantled Canada's Peace-Keeping Force, taking it from 1st in the world to 68th. Meanwhile, Haper bungled *tens of billions* of dollars buying fighter jets.
 
 Any one of these facts should be sufficient indication that this is not the man to be leading canada. Below are many more.
 
