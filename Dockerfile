@@ -1,20 +1,20 @@
-FROM ubuntu:latest
+FROM golang:1.4
 MAINTAINER Coin Culture <support@coinculture.info>
 
-RUN DEBIAN_FRONTEND=noninteractive apt-get update && apt-get dist-upgrade -y && apt-get install -y git nginx  && apt-get clean all
+ENV user shd
 
-ENV repo /srv/www
+RUN groupadd -r $user \
+  && useradd -r -s /bin/false -g $user $user
+
+USER $user
+
+ENV repo /go/src/github.com/coinculture/shit-harper-did
 RUN mkdir -p $repo
 COPY . $repo/
-RUN chown -R www-data:www-data $repo
 WORKDIR $repo
+RUN go build -o ./shd-server ./server
 
-RUN rm /etc/nginx/sites-enabled/*
-RUN rm /etc/nginx/sites-available/*
-COPY nginx/* /etc/nginx/sites-available/
-
-EXPOSE 80
-EXPOSE 443
+EXPOSE 8080
 
 COPY ./start.sh /start.sh
 RUN chmod 755 /start.sh
