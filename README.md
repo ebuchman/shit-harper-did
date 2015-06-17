@@ -14,10 +14,10 @@ Highlights
 
 - Harper is the first, in history, among leaders of the 54-member Commonwealth of Nations to be found in contempt of parliament.
 
-- Harper has suffered from repeated election scandals and has passed legislation to weaken oversight of the election process and to make
-it more difficult for people to vote.
+- Harper has been found guilty of repeated election scandals; so he has passed legislation to weaken oversight of the election process and to make
+it more difficult for people (particularly his opposers) to vote.
 
-- Harper shut down parliament twice when he felt threatened, and his party released an "Obstruction Handbook" on how to inhibit the democratic process in parliament.
+- Harper shut down parliament twice when he felt threatened, and his party released a 200-page "Obstruction Handbook" on how to interfere with and inhibit the democratic process in parliamentary committees.
 
 - Harper is censoring scientists.
 
