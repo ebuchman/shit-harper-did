@@ -25,9 +25,18 @@ func rootHandler(w http.ResponseWriter, r *http.Request) {
 func hookHandler(w http.ResponseWriter, r *http.Request) {
 	log.Println("githook!")
 	header := r.Header
-	agent := header["User-Agent"][0]
-	event := header["X-Github-Event"][0]
-	sig := header["X-Hub-Signature"][0]
+	agentL := header["User-Agent"]
+	if len(agentL) == 0 {
+		log.Println("Empty User-Agent")
+		return
+	}
+	agent := agentL[0]
+	eventL := header["X-Github-Event"]
+	if len(eventL) == 0 {
+		log.Println("Empty X-Github-Event")
+		return
+	}
+	event := eventL[0]
 	// assert GitHub agent
 	if !strings.Contains(agent, "GitHub") {
 		log.Println("git request from non Github agent")
@@ -40,6 +49,14 @@ func hookHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	if len(webhookSecret) > 0 {
+
+		sigL := header["X-Hub-Signature"]
+		if len(sigL) == 0 {
+			log.Println("Empty X-Hub-Signature")
+			return
+		}
+		sig := sigL[0]
+
 		// check HMAC
 		p := make([]byte, r.ContentLength)
 		sum := 0
