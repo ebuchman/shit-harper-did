@@ -5,11 +5,11 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/ebuchman/shit-harper-did/Godeps/_workspace/src/github.com/russross/blackfriday"
+	"github.com/ebuchman/shit-harper-did/site/Godeps/_workspace/src/github.com/russross/blackfriday"
 )
 
 func main() {
-	input, err := ioutil.ReadFile("README.md")
+	input, err := ioutil.ReadFile("shit-harper-did.md")
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)

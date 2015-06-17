@@ -8,7 +8,7 @@ RUN groupadd -r $user \
 
 USER $user
 
-ENV repo /go/src/github.com/coinculture/shit-harper-did
+ENV repo /go/src/github.com/ebuchman/shit-harper-did
 RUN mkdir -p $repo
 COPY . $repo/
 WORKDIR $repo

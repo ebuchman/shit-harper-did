@@ -1,9 +1,6 @@
 {
-	"ImportPath": "github.com/ebuchman/shit-harper-did",
+	"ImportPath": "github.com/ebuchman/shit-harper-did/site",
 	"GoVersion": "go1.4.2",
-	"Packages": [
-		"."
-	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/russross/blackfriday",
