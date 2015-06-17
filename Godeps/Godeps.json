@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/ebuchman/shit-harper-did",
+	"GoVersion": "go1.4.2",
+	"Packages": [
+		"."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.2-79-g386ef80",
+			"Rev": "386ef80f18233ea97960e855a54382ec446c6637"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "9a8b7d4e8f347bfa230879db9d7d4e4d9e19f962"
+		}
+	]
+}
