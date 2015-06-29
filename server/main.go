@@ -6,9 +6,12 @@ import (
 	"crypto/sha1"
 	"encoding/hex"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net/http"
+	"os"
 	"os/exec"
+	"path"
 	"strings"
 )
 
@@ -17,37 +20,47 @@ var (
 	webhookSecret = []byte{}
 )
 
+// serve files
+// TODO: only html/css/js
 func rootHandler(w http.ResponseWriter, r *http.Request) {
-	http.ServeFile(w, r, "site/index.html")
+	f := r.URL.Path[1:]
+	p := path.Join("site", f)
+	if _, err := os.Stat(p); err != nil {
+		p = "site/index.html"
+	}
+	http.ServeFile(w, r, p)
 }
 
 // github webhook response (confirm valid post request, git pull)
 func hookHandler(w http.ResponseWriter, r *http.Request) {
 	log.Println("githook!")
 	header := r.Header
+
 	agentL := header["User-Agent"]
 	if len(agentL) == 0 {
 		log.Println("Empty User-Agent")
 		return
 	}
 	agent := agentL[0]
+	// assert GitHub agent
+	if !strings.Contains(agent, "GitHub") {
+		log.Println("git request from non Github agent")
+		return
+	}
+
 	eventL := header["X-Github-Event"]
 	if len(eventL) == 0 {
 		log.Println("Empty X-Github-Event")
 		return
 	}
 	event := eventL[0]
-	// assert GitHub agent
-	if !strings.Contains(agent, "GitHub") {
-		log.Println("git request from non Github agent")
-		return
-	}
 	// assert event type
 	if !(strings.Contains(event, "push") || strings.Contains(event, "ping")) {
 		log.Println("git request for non push or ping event")
 		return
 	}
 
+	// authenticate webhook secret if exists
 	if len(webhookSecret) > 0 {
 
 		sigL := header["X-Hub-Signature"]
@@ -57,25 +70,23 @@ func hookHandler(w http.ResponseWriter, r *http.Request) {
 		}
 		sig := sigL[0]
 
-		// check HMAC
-		p := make([]byte, r.ContentLength)
-		sum := 0
-		// read http req - there is almost certainly a oneline for this...
-		for sum < int(r.ContentLength) {
-			n, err := r.Body.Read(p[sum:])
-			if err != nil {
-				log.Println("error reading http.req", err)
-				return
-			}
-			sum += n
-		}
-		sigbytes, err := hex.DecodeString(sig[5:]) // sig begins with "sha1:"
+		p, err := ioutil.ReadAll(r.Body)
 		if err != nil {
-			log.Println("no hex to bytes!", err)
+			log.Println("error reading http.req", err)
+			return
+		}
+
+		// check HMAC
+		if len(sig) < 6 || sig[:5] != "sha1:" {
+			log.Println("signature does not begin with 'sha1:'")
+		}
+		sigbytes, err := hex.DecodeString(sig[5:])
+		if err != nil {
+			log.Println("signature is bad hex", err)
 		}
 
 		if !CheckMAC(p, sigbytes, webhookSecret) {
-			log.Println("git request with invalid signature")
+			log.Println("invalid hmac signature")
 			return
 		}
 	}
