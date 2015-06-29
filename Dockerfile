@@ -1,12 +1,10 @@
 FROM golang:1.4
 MAINTAINER Coin Culture <support@coinculture.info>
 
-ENV user shd
+ENV USER shd
 
-RUN groupadd -r $user \
-  && useradd -r -s /bin/false -g $user $user
-
-USER $user
+RUN groupadd -r $USER \
+  && useradd -r -s /bin/false -g $USER $USER
 
 ENV repo /go/src/github.com/ebuchman/shit-harper-did
 RUN mkdir -p $repo
@@ -14,8 +12,9 @@ COPY . $repo/
 WORKDIR $repo
 RUN go build -o ./shd-server ./server
 
+RUN chown -R $USER:$USER .
+USER $USER
+
 EXPOSE 8080
 
-COPY ./start.sh /start.sh
-
-CMD ["/start.sh"]
+CMD ["./start.sh"]

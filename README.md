@@ -13,6 +13,13 @@ docker build -t shd .
 docker run --name shd -d -p 80:80 shd
 ```
 
+If you don't like docker, you can use go:
+
+```
+go build -o shd-server ./server
+./shd-server
+```
+
 You can regenerate `index.html` from the `shit-harper-did.md` by running `go run main.go` in the `sites` directory (you have to have [go installed](https://golang.org/doc/install))
 
 Please feel free to contribute to making it look pretty, and to running mirrors.

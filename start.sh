@@ -1,8 +1,9 @@
 #! /bin/bash
+set -e
 
 # set git user so we can pull
-git config --global user.email "me@me.com"
-git config --global user.name "Me"
+git config user.email "me@me.com"
+git config user.name "Me"
 
 # run the shd-server
 ./shd-server
