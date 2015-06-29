@@ -43,21 +43,6 @@ Corruption
 
 - [Excessive use of external lawyers (ongoing)](http://www.huffingtonpost.ca/2014/03/27/legal-fees-harper-conservatives_n_5043663.html) The conservatives have spent nearly half a billion dollars on outside legal fees (ignoring the over 2000 government lawyers), mostly to defend against ethics and access to information probes 
 
-[Harper was rejected by the Supreme Court 5 times](http://www.huffingtonpost.ca/2014/04/25/supreme-court-harper-conservatives_n_5214975.html)
-------------------------------------------------
-
-- [Safe Injection (2011)]() - Harper tried to close Vancouver's Insite safe-injection facility. The court found that denial contravened the principles of fundamental justice and ordered the exemption renewed immediately.
-
-- [Prostitution (2013)]() - laws prohibiting brothels, street walking, and living off prostitution were struck down
-
-- [Ineligible  Supreme Court Appointment (2014)]() - Harper appointed Marc Nadon to the Supreme Court, despite knowing he was ineligible. The appointment was rejected.
-
-- [Truth and Sentencing Act (2014)]() - sought to stop judges from routinely giving inmates extra credit for time spent in jail before custody
-
-- [Using Parliament to overun the Senate (2014)]() - Haper wanted to use his Parliamentary majority to make sweeping changes to, or altogether abolish, the Senate. 
-The former requires consent of at least 7 provinces, the later requires consent from all of them.
-
-
 Anti-Democracy
 --------------
 
@@ -84,6 +69,22 @@ Anti-Democracy
 - [Omnibus bills (ongoing)](http://www.macleans.ca/politics/how-sprawling-budget-bills-threaten-parliamentary-democracy/) - Harper is a fan of bills which introduce many sweeping changes to Canadian laws all at once, inhibitting the ability of MPs to vote on particular aspects of the bills, or to even review them competently (given their enormous breadth and scope). [They are an affront to our democracy](https://www.thestar.com/opinion/editorials/2012/10/19/omnibus_budget_bill_c45_is_an_affront_to_democracy.html)
 
 - [Gagging Scientists (ongoing)](http://www.cbc.ca/news/technology/muzzling-of-federal-scientists-widespread-survey-suggests-1.2128859) - the Harper Government is systematically gagging scientists, particularly environmental scientists. They are not allowed to speak freely with the media about their research (publicly fundeded research) and [some have even been required to be escorted by government liasons at conferences](http://www.cbc.ca/news/technology/federal-scientists-closely-monitored-during-polar-conference-1.1248559). [The world leading science journal Nature published a condemnation of the practice](http://www.nature.com/nature/journal/v483/n7387/full/483006a.html)
+
+
+[Harper was rejected by the Supreme Court 5 times](http://www.huffingtonpost.ca/2014/04/25/supreme-court-harper-conservatives_n_5214975.html)
+------------------------------------------------
+
+- [Safe Injection (2011)]() - Harper tried to close Vancouver's Insite safe-injection facility. The court found that denial contravened the principles of fundamental justice and ordered the exemption renewed immediately.
+
+- [Prostitution (2013)]() - laws prohibiting brothels, street walking, and living off prostitution were struck down
+
+- [Ineligible  Supreme Court Appointment (2014)]() - Harper appointed Marc Nadon to the Supreme Court, despite knowing he was ineligible. The appointment was rejected.
+
+- [Truth and Sentencing Act (2014)]() - sought to stop judges from routinely giving inmates extra credit for time spent in jail before custody
+
+- [Using Parliament to overun the Senate (2014)]() - Haper wanted to use his Parliamentary majority to make sweeping changes to, or altogether abolish, the Senate. 
+The former requires consent of at least 7 provinces, the later requires consent from all of them.
+
 
 
 Economics
