@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"fmt"
 	"io/ioutil"
 	"os"
@@ -15,8 +16,22 @@ func main() {
 		os.Exit(1)
 	}
 
-	output := blackfriday.MarkdownBasic(input)
-	if err := ioutil.WriteFile("index.html", output, 0644); err != nil {
+	buf := new(bytes.Buffer)
+	buf.WriteString(`<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+`)
+	buf.Write(blackfriday.MarkdownBasic(input))
+	buf.WriteString(`
+</body>
+</html>
+`)
+
+	if err := ioutil.WriteFile("index.html", buf.Bytes(), 0644); err != nil {
 		fmt.Println(err)
 		os.Exit(1)
 	}
