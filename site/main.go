@@ -24,7 +24,9 @@ func main() {
 	buf.WriteString(`<!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href='http://fonts.googleapis.com/css?family=Neuton:200,300,400' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 </head>
 
 <body>

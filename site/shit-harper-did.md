@@ -120,3 +120,11 @@ Environment
 - [Bill C-38 (2012)](https://en.wikipedia.org/wiki/Jobs,_Growth_and_Long-term_Prosperity_Act) - eliminates requirements for environmental assessments on federally funded projects, along with many other destructive changed to environmental regulation
 
 
+More
+----
+
+- [shitharperdid.com](http://www.shd.ca)
+
+- [ The Arrogant Autocrat](http://www.amazon.ca/The-Arrogant-Autocrat-Stephen-Takeover/dp/0994090102)
+
+
